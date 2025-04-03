@@ -23,7 +23,7 @@ git log                    # Exibe o histórico de commits
 ````
 git branch                 # Lista as branches
 git branch <nome-branch>   # Cria uma nova branch
-git checkout <branch>      # Troca de branch
+git switch <branch>        # Troca de branch
 git merge <branch>         # Mescla uma branch
 ````
 # 🚀 Envio e Atualização Remota
@@ -54,6 +54,7 @@ refactor: melhora a estrutura do código
 
 - refactor: Alterações sem impacto externo
 
+Documentação do Conventional Commits: https://www.conventionalcommits.org/en/v1.0.0/
 
 
 # 📝 Dicas Úteis
