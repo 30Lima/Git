@@ -35,6 +35,27 @@ git pull origin <branch>  # Baixa alterações do repositório remoto
 ````
 git reset --hard HEAD     # Desfaz alterações locais
 ````
+# ✍️ Conventional Commits
+
+O padrão Conventional Commits define um formato para mensagens de commit que facilita a leitura e o entendimento das mudanças.
+
+Exemplo de Commit:
+````
+feat: adiciona nova funcionalidade de login
+fix: corrige erro na função de autenticação
+chore: atualiza dependências
+refactor: melhora a estrutura do código
+````
+- feat: Adição de nova funcionalidade
+
+- fix: Correção de bug
+
+- chore: Tarefas de manutenção
+
+- refactor: Alterações sem impacto externo
+
+
+
 # 📝 Dicas Úteis
 
 Use git commit -am "Mensagem" para adicionar e commitar em um único comando.
