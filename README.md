@@ -62,8 +62,3 @@ Documentação do Conventional Commits: https://www.conventionalcommits.org/en/v
 Use git commit -am "Mensagem" para adicionar e commitar em um único comando.
 
 Evite commits grandes e prefira commits pequenos e frequentes.
-
-
-![Badge](https://img.shields.io/badge/status-active-brightgreen)
-![GIF de Demonstração](https://media.giphy.com/media/3o7aD6V3YcLu2Z7rAY/giphy.gif)
-
